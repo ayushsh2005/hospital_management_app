@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Appointment from "./pages/Appointment";
 import AboutUs from "./pages/AboutUs";
-import Register from "./Pages/Register";
+import Register from "./pages/Register";
 //import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import { ToastContainer } from "react-toastify";
